@@ -7,3 +7,4 @@ Tutorial: Comandos básicos de Git
 5. git log -> Muestra el historial de commits.
 6. git push -> Sube cambios al servidor remoto.
 7. git pull -> Descarga y combina cambios del remoto.
+8. git status - muestra el estado actual del repositorio

@@ -1,0 +1,9 @@
+Tutorial: Comandos básicos de Git
+
+1. git init -> Inicializa un nuevo repositorio.
+2. git add <archivo> -> Agrega archivos al área de preparación.
+3. git commit -m "mensaje" -> Guarda los cambios en el historial.
+4. git status -> Muestra el estado del repositorio.
+5. git log -> Muestra el historial de commits.
+6. git push -> Sube cambios al servidor remoto.
+7. git pull -> Descarga y combina cambios del remoto.
